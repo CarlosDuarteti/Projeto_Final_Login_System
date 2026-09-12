@@ -3,7 +3,6 @@
 *.log
 /backend
 /docs
-/frontend/CSS/style_register.css
 /frontend/JS
 home.html
 README.md
