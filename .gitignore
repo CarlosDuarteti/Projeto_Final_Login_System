@@ -3,6 +3,9 @@
 *.log
 /backend
 /docs
-/frontend
-README.md
+/frontend/CSS
+/frontend/JS
+home.html
+register.html
 server.js
+README.md
