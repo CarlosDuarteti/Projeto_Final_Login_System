@@ -3,7 +3,7 @@
 *.log
 /backend
 /docs
-/frontend/CSS
+/frontend/CSS/style_register.css
 /frontend/JS
 home.html
 register.html
