@@ -2,7 +2,6 @@
 .env
 *.log
 /docs
-/frontend/JS/home.js
 /frontend/JS/modal.js
 /frontend/JS/theme.js
 README.md
