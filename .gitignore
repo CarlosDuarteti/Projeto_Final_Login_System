@@ -1,7 +1,6 @@
 /node_modules
 .env
 *.log
-/backend/database
 /backend/routers
 /docs
 /frontend/JS/home.js
