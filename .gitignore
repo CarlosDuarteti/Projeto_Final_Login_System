@@ -2,5 +2,4 @@
 .env
 *.log
 /docs
-/frontend/JS/modal.js
 README.md
